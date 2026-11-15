@@ -123,6 +123,6 @@ QR Code Ready: Instant access for customers in queue
 
 🧑‍💻 Developers
 
-Project Lead: Sharanya
+Project Lead: jahnavi
 Technologies: HTML • CSS • JavaScript • Firebase • Netlify
 Version: 1.0.0
